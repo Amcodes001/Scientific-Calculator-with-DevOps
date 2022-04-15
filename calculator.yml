@@ -4,5 +4,5 @@
   tasks:
     - name: Pull image
       docker_image:
-        name: takshpatel/calculatordevops
+        name: amcodes18/calculator_devops
         source: pull
